@@ -6,7 +6,7 @@ This project demonstrates real-world API integration, async JavaScript, and modu
 ---
 
 ## 🚀 Live Demo
-🔗 https://YOUR_USERNAME.github.io/weather-app/
+🔗 https://vanilla-js-weather-app-seven.vercel.app/
 
 ---
 
